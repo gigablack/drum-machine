@@ -1,0 +1,9 @@
+const PLAY_SOUND = 'PLAY_SOUND'
+const CLEAN_STATE = 'CLEAN_STATE'
+const DISPLAY_TEXT = 'DISPLAY_TEXT'
+
+module.exports = {
+    PLAY_SOUND,
+    CLEAN_STATE,
+    DISPLAY_TEXT
+}
